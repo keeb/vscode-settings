@@ -1,0 +1,35 @@
+{
+    "workbench.colorTheme": "Tokyo Night Dark",
+    "editor.fontFamily": "SauceCodePro Nerd Font",
+    "workbench.colorCustomizations": {
+        "scrollbarSlider.background": "#f5a9f3",
+        "scrollbar.shadow": "#f5a9f3",
+        "scrollbarSlider.activeBackground": "#f072ea",
+        "scrollbarSlider.hoverBackground": "#f079ea"
+    },
+    "editor.tokenColorCustomizations": { 
+        "comments": "#adb885"
+        
+    },
+    "remote.SSH.remotePlatform": {
+        "10.0.0.12": "linux"
+    },
+    "git.ignoreMissingGitWarning": true,
+    "workbench.startupEditor": "none",
+    "telemetry.telemetryLevel": "off",
+    "explorer.confirmDragAndDrop": false,
+    "go.docsTool": "gogetdoc",
+    "go.formatTool": "gofmt",
+    "[go]": {
+        "editor.formatOnSave": false
+
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false   
+    },
+    "go.buildOnSave": "off",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.zoomLevel": 1,
+    "editor.minimap.showSlider": "always"
+}
+
