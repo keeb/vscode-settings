@@ -1,6 +1,6 @@
 {
     "workbench.colorTheme": "Tokyo Night Dark",
-    "editor.fontFamily": "SauceCodePro Nerd Font",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
     "workbench.colorCustomizations": {
         "scrollbarSlider.background": "#f5a9f3",
         "scrollbar.shadow": "#f5a9f3",
@@ -30,6 +30,12 @@
     "go.buildOnSave": "off",
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "window.zoomLevel": 1,
-    "editor.minimap.showSlider": "always"
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.enabled": false,
+    "go.survey.prompt": false,
+    "nyanMode.nyanDisplayPercent": true,
+    "nyanMode.nyanLength": 90,
+    "github.gitProtocol": "ssh",
+    "editor.inlineSuggest.enabled": true
 }
 
